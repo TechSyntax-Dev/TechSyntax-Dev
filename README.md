@@ -34,7 +34,7 @@
 
 ![TechSyntax-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=TechSyntax-Dev&show_icons=true&theme=tokyonight) -->
 
-#### Hello I'm TechSync Developed By Steven Martin 👋
+#### Hello I'm TechSync Developed In Bali👋
 
 
 <h5 align="left">Our Social Media</h5>
